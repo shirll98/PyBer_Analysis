@@ -5,6 +5,7 @@ The purpose of this analysis is to use python and pandas libraries to create a s
 ## Results -- describe the differences in ride-sharing data among the different city types  
 From the ride-sharing data summary, there are several notable fndings among the different city types. First, urban cities have the highest demand in rides while rural cities have the least demand. Moreover, average fare per driver for urban drivers is surprisingly lower than the average fare per driver in rural and suburban cities. Additionally, the summary also shows that there are a lot more drivers in the urban cities than the other city types. 
 
+![summary_df.png](https://github.com/shirll98/PyBer_Analysis/blob/main/analysis/summary_df.png)
 ![Pyber_Fare_summary.png](https://github.com/shirll98/PyBer_Analysis/blob/main/analysis/Pyber_Fare_summary.png)
 
 
